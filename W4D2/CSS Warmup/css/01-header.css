@@ -12,6 +12,7 @@ body {
   background: #f00;
   color: white;
   border-bottom: 1px solid #ccc;
+  margin-bottom: 10px;
 }
 
 .header a {
