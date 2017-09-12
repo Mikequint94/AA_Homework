@@ -1,0 +1,25 @@
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.currency-selector {
+  display: inline-block;
+}
+
+.currency-option {
+  float: right;
+  padding-left: 5px;
+  background: beige;
+}
+
+.rates-list {
+  padding-top: 10px;
+}
+.currency-option:hover {
+  cursor: pointer;
+  background: lime;
+}
